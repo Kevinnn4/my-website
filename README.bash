@@ -2,6 +2,10 @@
 
 THis is a really awesome website
 
-Now editing on update-readme branch
+Updates made on master on GitHub before rebase
 
-Updated locally
+## Repository Purpose
+
+This will be a change thaat conflicts
+with whatever is on the remote side.
+This was edited locally.
